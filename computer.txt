@@ -1,0 +1,16 @@
+
+Computer # 1
+Brand : mac
+Computer Model : mac
+SN : 5
+Computer Price : $25.0
+-------------------------
+
+
+Computer # 2
+Brand : android
+Computer Model : android
+SN : 485
+Computer Price : $1254.0
+-------------------------
+
